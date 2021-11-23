@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application List Activity</string>
+    <string name="hello">Android List View Activity!</string>
+</resources>
